@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/tejassxo/Lazycode/tree/master/0053-maximum-subarray) |
 | [0189-rotate-array](https://github.com/tejassxo/Lazycode/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/tejassxo/Lazycode/tree/master/0283-move-zeroes) |
+| [0704-binary-search](https://github.com/tejassxo/Lazycode/tree/master/0704-binary-search) |
 ## Two Pointers
 |  |
 | ------- |
@@ -50,4 +51,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/tejassxo/Lazycode/tree/master/0053-maximum-subarray) |
+## Binary Search
+|  |
+| ------- |
+| [0704-binary-search](https://github.com/tejassxo/Lazycode/tree/master/0704-binary-search) |
 <!---LeetCode Topics End-->
