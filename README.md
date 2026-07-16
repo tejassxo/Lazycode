@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/tejassxo/Lazycode/tree/master/0075-sort-colors) |
 | [0169-majority-element](https://github.com/tejassxo/Lazycode/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/tejassxo/Lazycode/tree/master/0189-rotate-array) |
+| [0268-missing-number](https://github.com/tejassxo/Lazycode/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/tejassxo/Lazycode/tree/master/0283-move-zeroes) |
 | [0704-binary-search](https://github.com/tejassxo/Lazycode/tree/master/0704-binary-search) |
 ## Two Pointers
@@ -28,12 +29,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/tejassxo/Lazycode/tree/master/0002-add-two-numbers) |
 | [0009-palindrome-number](https://github.com/tejassxo/Lazycode/tree/master/0009-palindrome-number) |
 | [0189-rotate-array](https://github.com/tejassxo/Lazycode/tree/master/0189-rotate-array) |
+| [0268-missing-number](https://github.com/tejassxo/Lazycode/tree/master/0268-missing-number) |
 ## Hash Table
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/tejassxo/Lazycode/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/tejassxo/Lazycode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0169-majority-element](https://github.com/tejassxo/Lazycode/tree/master/0169-majority-element) |
+| [0268-missing-number](https://github.com/tejassxo/Lazycode/tree/master/0268-missing-number) |
 ## Linked List
 |  |
 | ------- |
@@ -64,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/tejassxo/Lazycode/tree/master/0004-median-of-two-sorted-arrays) |
+| [0268-missing-number](https://github.com/tejassxo/Lazycode/tree/master/0268-missing-number) |
 | [0704-binary-search](https://github.com/tejassxo/Lazycode/tree/master/0704-binary-search) |
 ## Sorting
 |  |
@@ -71,8 +75,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/tejassxo/Lazycode/tree/master/0015-3sum) |
 | [0075-sort-colors](https://github.com/tejassxo/Lazycode/tree/master/0075-sort-colors) |
 | [0169-majority-element](https://github.com/tejassxo/Lazycode/tree/master/0169-majority-element) |
+| [0268-missing-number](https://github.com/tejassxo/Lazycode/tree/master/0268-missing-number) |
 ## Counting
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/tejassxo/Lazycode/tree/master/0169-majority-element) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0268-missing-number](https://github.com/tejassxo/Lazycode/tree/master/0268-missing-number) |
 <!---LeetCode Topics End-->
