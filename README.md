@@ -58,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0229-majority-element-ii](https://github.com/tejassxo/Lazycode/tree/master/0229-majority-element-ii) |
 | [0268-missing-number](https://github.com/tejassxo/Lazycode/tree/master/0268-missing-number) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/tejassxo/Lazycode/tree/master/0442-find-all-duplicates-in-an-array) |
+| [0451-sort-characters-by-frequency](https://github.com/tejassxo/Lazycode/tree/master/0451-sort-characters-by-frequency) |
 | [0560-subarray-sum-equals-k](https://github.com/tejassxo/Lazycode/tree/master/0560-subarray-sum-equals-k) |
 ## Linked List
 |  |
@@ -74,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0005-longest-palindromic-substring](https://github.com/tejassxo/Lazycode/tree/master/0005-longest-palindromic-substring) |
 | [0008-string-to-integer-atoi](https://github.com/tejassxo/Lazycode/tree/master/0008-string-to-integer-atoi) |
 | [0125-valid-palindrome](https://github.com/tejassxo/Lazycode/tree/master/0125-valid-palindrome) |
+| [0451-sort-characters-by-frequency](https://github.com/tejassxo/Lazycode/tree/master/0451-sort-characters-by-frequency) |
 | [0917-reverse-only-letters](https://github.com/tejassxo/Lazycode/tree/master/0917-reverse-only-letters) |
 ## Sliding Window
 |  |
@@ -108,11 +110,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0229-majority-element-ii](https://github.com/tejassxo/Lazycode/tree/master/0229-majority-element-ii) |
 | [0268-missing-number](https://github.com/tejassxo/Lazycode/tree/master/0268-missing-number) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/tejassxo/Lazycode/tree/master/0442-find-all-duplicates-in-an-array) |
+| [0451-sort-characters-by-frequency](https://github.com/tejassxo/Lazycode/tree/master/0451-sort-characters-by-frequency) |
 ## Counting
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/tejassxo/Lazycode/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/tejassxo/Lazycode/tree/master/0229-majority-element-ii) |
+| [0451-sort-characters-by-frequency](https://github.com/tejassxo/Lazycode/tree/master/0451-sort-characters-by-frequency) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -129,4 +133,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0229-majority-element-ii](https://github.com/tejassxo/Lazycode/tree/master/0229-majority-element-ii) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0451-sort-characters-by-frequency](https://github.com/tejassxo/Lazycode/tree/master/0451-sort-characters-by-frequency) |
+## Bucket Sort
+|  |
+| ------- |
+| [0451-sort-characters-by-frequency](https://github.com/tejassxo/Lazycode/tree/master/0451-sort-characters-by-frequency) |
 <!---LeetCode Topics End-->
