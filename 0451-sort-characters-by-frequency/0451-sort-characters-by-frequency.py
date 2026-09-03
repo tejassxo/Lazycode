@@ -19,16 +19,8 @@ class Solution:
         #     for i in range(count):
         #         res += ch
         # return 
-        #another approach
-        # count=Counter(s)
-        # result=[]
-        # for char,freq in count.most_common():
-        #     result.append(char*freq)
-        # return "".join(result)
-
-        freq = Counter(s)
-        char = sorted(freq,key = lambda x: freq[x],reverse = True)
-        result= []
-        for ch in char:
-            result.append(ch*freq[ch])
-        return ''.join(result)
+        count=Counter(s)
+        result=[]
+        for char,freq in count.most_common():
+            result.append(char*freq)
+        return "".join(result)
