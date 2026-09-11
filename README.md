@@ -64,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/tejassxo/Lazycode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0451-sort-characters-by-frequency](https://github.com/tejassxo/Lazycode/tree/master/0451-sort-characters-by-frequency) |
 | [0560-subarray-sum-equals-k](https://github.com/tejassxo/Lazycode/tree/master/0560-subarray-sum-equals-k) |
+| [0767-reorganize-string](https://github.com/tejassxo/Lazycode/tree/master/0767-reorganize-string) |
 ## Linked List
 |  |
 | ------- |
@@ -80,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0008-string-to-integer-atoi](https://github.com/tejassxo/Lazycode/tree/master/0008-string-to-integer-atoi) |
 | [0125-valid-palindrome](https://github.com/tejassxo/Lazycode/tree/master/0125-valid-palindrome) |
 | [0451-sort-characters-by-frequency](https://github.com/tejassxo/Lazycode/tree/master/0451-sort-characters-by-frequency) |
+| [0767-reorganize-string](https://github.com/tejassxo/Lazycode/tree/master/0767-reorganize-string) |
 | [0917-reverse-only-letters](https://github.com/tejassxo/Lazycode/tree/master/0917-reverse-only-letters) |
 ## Sliding Window
 |  |
@@ -115,12 +117,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/tejassxo/Lazycode/tree/master/0268-missing-number) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/tejassxo/Lazycode/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0451-sort-characters-by-frequency](https://github.com/tejassxo/Lazycode/tree/master/0451-sort-characters-by-frequency) |
+| [0767-reorganize-string](https://github.com/tejassxo/Lazycode/tree/master/0767-reorganize-string) |
 ## Counting
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/tejassxo/Lazycode/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/tejassxo/Lazycode/tree/master/0229-majority-element-ii) |
 | [0451-sort-characters-by-frequency](https://github.com/tejassxo/Lazycode/tree/master/0451-sort-characters-by-frequency) |
+| [0767-reorganize-string](https://github.com/tejassxo/Lazycode/tree/master/0767-reorganize-string) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -133,6 +137,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/tejassxo/Lazycode/tree/master/0011-container-with-most-water) |
+| [0767-reorganize-string](https://github.com/tejassxo/Lazycode/tree/master/0767-reorganize-string) |
 ## Boyer–Moore Majority Vote Algorithm
 |  |
 | ------- |
@@ -141,6 +146,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0451-sort-characters-by-frequency](https://github.com/tejassxo/Lazycode/tree/master/0451-sort-characters-by-frequency) |
+| [0767-reorganize-string](https://github.com/tejassxo/Lazycode/tree/master/0767-reorganize-string) |
 ## Bucket Sort
 |  |
 | ------- |
