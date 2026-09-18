@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/tejassxo/Lazycode/tree/master/0560-subarray-sum-equals-k) |
 | [0704-binary-search](https://github.com/tejassxo/Lazycode/tree/master/0704-binary-search) |
 | [0724-find-pivot-index](https://github.com/tejassxo/Lazycode/tree/master/0724-find-pivot-index) |
+| [1636-sort-array-by-increasing-frequency](https://github.com/tejassxo/Lazycode/tree/master/1636-sort-array-by-increasing-frequency) |
 ## Two Pointers
 |  |
 | ------- |
@@ -66,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0451-sort-characters-by-frequency](https://github.com/tejassxo/Lazycode/tree/master/0451-sort-characters-by-frequency) |
 | [0560-subarray-sum-equals-k](https://github.com/tejassxo/Lazycode/tree/master/0560-subarray-sum-equals-k) |
 | [0767-reorganize-string](https://github.com/tejassxo/Lazycode/tree/master/0767-reorganize-string) |
+| [1636-sort-array-by-increasing-frequency](https://github.com/tejassxo/Lazycode/tree/master/1636-sort-array-by-increasing-frequency) |
 ## Linked List
 |  |
 | ------- |
@@ -119,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0442-find-all-duplicates-in-an-array](https://github.com/tejassxo/Lazycode/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0451-sort-characters-by-frequency](https://github.com/tejassxo/Lazycode/tree/master/0451-sort-characters-by-frequency) |
 | [0767-reorganize-string](https://github.com/tejassxo/Lazycode/tree/master/0767-reorganize-string) |
+| [1636-sort-array-by-increasing-frequency](https://github.com/tejassxo/Lazycode/tree/master/1636-sort-array-by-increasing-frequency) |
 ## Counting
 |  |
 | ------- |
